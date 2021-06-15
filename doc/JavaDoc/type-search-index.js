@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"pl.kielce.tu","l":"ExifEditor"},{"p":"pl.kielce.tu","l":"EXIFEditorApp"},{"p":"pl.kielce.tu","l":"EXIFEditorGUI"}];updateSearchResults();
